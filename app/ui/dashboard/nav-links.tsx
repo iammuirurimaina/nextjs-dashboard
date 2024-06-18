@@ -1,4 +1,4 @@
-'use client';
+'use client';//learn more about this
 import {
   UserGroupIcon,
   HomeIcon,
