@@ -1,4 +1,4 @@
-'use client';//learn more about this
+'use client';//learn more about this and use server
 import {
   UserGroupIcon,
   HomeIcon,
